@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 env: # variables
-  RG_NAME: "RG-AKSClustertddinetum"
+  RG_NAME: "RG-AKSCluster-tdd"
   CLUSTER_NAME: "AKS-000" 
   REGISTRY_NAME: "acrinetumtdd"
   APP_NAME: "coolapi"
